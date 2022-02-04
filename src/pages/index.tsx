@@ -14,7 +14,7 @@ export default function SignIn() {
         w="100%"
         maxWidth={360}
         bg="gray.800"
-        p="8"
+        p={["6", "8"]}
         borderRadius={8}
         flexDir="column"
       >
